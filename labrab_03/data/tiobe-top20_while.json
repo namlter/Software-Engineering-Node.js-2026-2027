@@ -1,0 +1,122 @@
+[
+  {
+    "pos": 1,
+    "prev": 1,
+    "lang": "Python",
+    "rate": 20.86
+  },
+  {
+    "pos": 2,
+    "prev": 2,
+    "lang": "C",
+    "rate": 11.48
+  },
+  {
+    "pos": 3,
+    "prev": 4,
+    "lang": "Java",
+    "rate": 8.89
+  },
+  {
+    "pos": 4,
+    "prev": 3,
+    "lang": "C++",
+    "rate": 8.35
+  },
+  {
+    "pos": 5,
+    "prev": 5,
+    "lang": "C#",
+    "rate": 3.39
+  },
+  {
+    "pos": 6,
+    "prev": 6,
+    "lang": "JavaScript",
+    "rate": 2.42
+  },
+  {
+    "pos": 7,
+    "prev": 12,
+    "lang": "R",
+    "rate": 2.27
+  },
+  {
+    "pos": 8,
+    "prev": 10,
+    "lang": "SQL",
+    "rate": 1.91
+  },
+  {
+    "pos": 9,
+    "prev": 7,
+    "lang": "Visual Basic",
+    "rate": 1.88
+  },
+  {
+    "pos": 10,
+    "prev": 11,
+    "lang": "Go",
+    "rate": 1.69
+  },
+  {
+    "pos": 11,
+    "prev": 14,
+    "lang": "Rust",
+    "rate": 1.63
+  },
+  {
+    "pos": 12,
+    "prev": 16,
+    "lang": "PHP",
+    "rate": 1.58
+  },
+  {
+    "pos": 13,
+    "prev": 13,
+    "lang": "Fortran",
+    "rate": 1.21
+  },
+  {
+    "pos": 14,
+    "prev": 19,
+    "lang": "Scratch",
+    "rate": 1.15
+  },
+  {
+    "pos": 15,
+    "prev": 9,
+    "lang": "Perl",
+    "rate": 1.14
+  },
+  {
+    "pos": 16,
+    "prev": 15,
+    "lang": "MATLAB",
+    "rate": 1.08
+  },
+  {
+    "pos": 17,
+    "prev": 18,
+    "lang": "Assembly language",
+    "rate": 0.92
+  },
+  {
+    "pos": 18,
+    "prev": 21,
+    "lang": "Swift",
+    "rate": 0.89
+  },
+  {
+    "pos": 19,
+    "prev": 8,
+    "lang": "Delphi/Object Pascal",
+    "rate": 0.78
+  },
+  {
+    "pos": 20,
+    "prev": 26,
+    "lang": "Dart",
+    "rate": 0.74
+  }
+]
