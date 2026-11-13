@@ -1,0 +1,16 @@
+{
+  "name": "pib-03-parsing",
+  "version": "1.0.0",
+  "description": "Лабораторная по парсингу: TIOBE index (fetch, cheerio, ручной разбор строк)",
+  "main": "05-all.js",
+  "scripts": {
+    "fetch": "node 01-axios-get.js",
+    "lab": "node 02-while.js",
+    "cheerio": "node 03-cheerio.js",
+    "all": "node 05-all.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0"
+  }
+}
